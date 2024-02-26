@@ -6,6 +6,8 @@ public class Hello {
 }
 
 
+// 單行註解
+
 /* 
 這是
 多行
