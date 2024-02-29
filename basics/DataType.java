@@ -1,4 +1,4 @@
-public class Hello {
+public class DataType {
   public static void main(String[] args) {
     int x;
     x = 3;
