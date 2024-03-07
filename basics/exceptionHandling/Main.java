@@ -22,7 +22,7 @@ public class Main {
     catch(InputMismatchException e) {
       System.out.println("Please enter a NUMBER OMFG...");
     }
-    catch(Exception e) {
+    catch(Exception e) { // as a last resort
       System.out.println("Something went wrong!");
     }
     finally {
