@@ -7,6 +7,7 @@ public class Main {
 
     // JFrame = a GUI window to add components to
 
+    /*
     JFrame frame = new JFrame();
     frame.setTitle("JFrame title goes here");
     frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -16,9 +17,9 @@ public class Main {
 
     ImageIcon image = new ImageIcon("logo.png");
     frame.setIconImage(image.getImage()); // change icon of frame
-
-    // frame.getContentPane().setBackground(Color.green);
     frame.getContentPane().setBackground(new Color(80, 80, 80));
+    */
 
+    MyFrame myframe = new MyFrame();
   }
 }
